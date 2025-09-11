@@ -1,4 +1,4 @@
-name: Deploy
+name: 🦕 Deno
 on:
   push:
     branches: main
@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    name: Deploy
+    name: 🌯 Deno Deploy
     runs-on: ubuntu-latest
 
     permissions:
